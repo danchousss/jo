@@ -5,6 +5,7 @@ public class Main{
         int number=dan.nextInt();
         int [] rim=new int[number];
         int [] pipo=new int[number];
+        //sasda
         int [] pipo = find_even(rim,dan);
     }
     public static int[] find_even(int[]rim,Scanner dan){
